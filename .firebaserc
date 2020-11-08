@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "flash-chat-72a19",
+    "flutter-chat": "flutter-chat-904e2",
+    "c": "flutter-chat-904e2"
+  }
+}
